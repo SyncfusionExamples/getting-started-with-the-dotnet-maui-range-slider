@@ -1,10 +1,10 @@
 # Getting Started with the .NET MAUI Range Slider
 A quick-start project that helps you integrate a Range Slider control in a .NET MAUI application by adding the Syncfusion MAUI Sliders package from NuGet. This project contains simple code customizations like binding values, setting minimum and maximum values with intervals, adding labels, tooltips, ticks,  dividers, and changing the orientation.
 
-Refer to the following documentation for the Syncfusion .NET MAUI Range Slider control: 
+**Refer to the following documentation for the Syncfusion .NET MAUI Range Slider control:** 
 https://help.syncfusion.com/maui/range-slider/getting-started
 
-Check out this GitHub example for the Syncfusion .NET MAUI Range Slider control: 
+**Check out this GitHub example for the Syncfusion .NET MAUI Range Slider control:** 
 https://github.com/syncfusion/maui-demos/tree/master/MAUI/Sliders
 
 ## Project prerequisites
